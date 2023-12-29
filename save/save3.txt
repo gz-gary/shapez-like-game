@@ -1,0 +1,137 @@
+Size
+34 28
+Block
+1 8 Mine1
+3 4 Pipe Right Down 0
+3 5 Pipe Up Down 1
+1 0
+3 6 Pipe Up Down 0
+3 7 Trashbin 0
+4 2 Pipe Down Right 0
+4 3 Miner Mine1 Up 1
+1 68
+4 4 Pipe Right Left 0
+5 2 Pipe Left Right 0
+5 4 Pipe Right Left 1
+1 12
+5 25 Mine1
+6 2 Pipe Left Down 1
+1 24
+6 3 Pipe Up Down 0
+6 4 Pipe Up Left 0
+6 15 Mine1
+6 24 Mine1
+6 25 Mine1
+6 26 Mine1
+7 25 Mine1
+9 6 Mine1
+10 5 Mine1
+10 6 Miner Mine1 Right 0
+10 7 Pipe Down Up 0
+10 8 Mine2
+11 6 Pipe Left Right 1
+1 80
+12 6 Pipe Left Right 0
+12 10 Mine1
+13 6 Pipe Left Right 0
+13 9 Pipe Down Right 0
+13 10 Miner Mine1 Up 1
+1 68
+13 11 Miner Mine1 Down 1
+1 68
+13 12 Pipe Up Right 0
+14 6 Pipe Left Right 1
+1 68
+14 9 Pipe Left Right 0
+14 10 Mine1
+14 11 Miner Mine1 Right 1
+1 68
+14 12 Pipe Left Right 0
+15 6 Pipe Left Down 0
+15 7 Pipe Up Down 0
+15 8 Pipe Up Right 1
+1 56
+15 9 Pipe Left Right 1
+1 24
+15 10 Miner Mine1 Right 1
+1 68
+15 11 Pipe Left Right 0
+15 12 Pipe Left Right 1
+1 24
+16 4 Cutter 1 Down 1
+22 60
+16 5 Pipe Up Down 0
+16 6 Pipe Up Down 0
+16 7 Pipe Up Down 1
+22 8
+16 8 Center 0
+16 9 Center 0
+16 10 Center 0
+16 11 Center 0
+16 12 Pipe Left Up 0
+17 2 Miner Mine2 Down 1
+2 68
+17 3 Pipe Up Down 0
+17 4 Cutter 0 Down 1
+21 60
+17 5 Pipe Up Right 0
+17 8 Center 0
+17 9 Center 0
+17 10 Center 0
+17 11 Center 0
+18 5 Pipe Left Down 0
+18 6 Pipe Up Down 1
+21 8
+18 7 Pipe Up Down 0
+18 8 Center 0
+18 9 Center 0
+18 10 Center 0
+18 11 Center 0
+18 12 Pipe Down Up 1
+1 44
+18 13 Pipe Right Up 0
+18 22 Mine1
+19 8 Center 0
+19 9 Center 0
+19 10 Center 0
+19 11 Center 0
+19 12 Pipe Right Up 0
+19 13 Pipe Down Left 0
+19 14 Pipe Down Up 1
+1 56
+19 15 Pipe Down Up 0
+19 16 Pipe Down Up 0
+19 17 Pipe Down Up 1
+1 68
+19 18 Pipe Down Up 0
+19 19 Pipe Down Up 0
+19 20 Pipe Down Up 1
+1 80
+19 21 Miner Mine1 Up 0
+19 22 Mine1
+19 23 Mine1
+20 12 Pipe Down Left 1
+1 0
+20 13 Pipe Down Up 0
+20 14 Pipe Down Up 0
+20 15 Pipe Down Up 1
+1 12
+20 16 Pipe Down Up 0
+20 17 Pipe Down Up 0
+20 18 Pipe Down Up 1
+1 24
+20 19 Pipe Down Up 0
+20 20 Pipe Down Up 0
+20 21 Miner Mine1 Up 1
+1 68
+20 22 Mine1
+20 23 Mine1
+21 22 Mine1
+Data
+100000
+307
+3
+93
+95
+2
+0.1

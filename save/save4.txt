@@ -1,0 +1,344 @@
+Size
+34 28
+Block
+1 8 Mine1
+3 4 Pipe Right Down 1
+1 92
+3 5 Pipe Up Down 0
+3 6 Pipe Up Down 1
+1 36
+3 7 Trashbin 0
+4 2 Pipe Down Right 1
+1 72
+4 3 Miner Mine1 Up 1
+1 28
+4 4 Pipe Right Left 1
+1 48
+5 2 Pipe Left Right 0
+5 4 Pipe Right Left 1
+1 4
+5 25 Mine1
+6 2 Pipe Left Down 1
+1 16
+6 3 Pipe Up Down 1
+1 60
+6 4 Pipe Up Left 0
+6 15 Mine1
+6 24 Mine1
+6 25 Mine1
+6 26 Mine1
+7 25 Miner Mine1 Right 1
+1 28
+8 25 Pipe Left Right 1
+1 72
+9 6 Mine1
+9 25 Pipe Left Right 0
+10 5 Mine1
+10 6 Miner Mine1 Right 0
+10 7 Pipe Down Up 2
+2 100
+2 40
+10 8 Miner Mine2 Right 1
+2 28
+10 25 Pipe Left Right 1
+1 16
+11 6 Pipe Left Right 1
+1 0
+11 8 Pipe Left Right 1
+2 72
+11 25 Pipe Left Right 1
+1 60
+12 6 Pipe Left Right 1
+1 44
+12 8 Pipe Left Right 0
+12 10 Mine1
+12 25 Pipe Left Right 0
+13 6 Pipe Left Right 1
+1 88
+13 8 Pipe Left Right 1
+2 16
+13 9 Pipe Down Right 1
+1 72
+13 10 Miner Mine1 Up 1
+1 28
+13 11 Miner Mine1 Down 1
+1 28
+13 12 Pipe Up Right 1
+1 72
+13 25 Pipe Left Right 1
+1 4
+14 6 Pipe Left Right 0
+14 8 Pipe Left Right 1
+2 60
+14 9 Pipe Left Right 0
+14 10 Mine1
+14 11 Miner Mine1 Right 1
+1 28
+14 12 Pipe Left Right 0
+14 25 Pipe Left Right 1
+1 48
+15 6 Pipe Left Down 1
+1 32
+15 7 Pipe Up Right 1
+1 76
+15 8 Pipe Left Right 0
+15 9 Pipe Left Right 1
+1 16
+15 10 Miner Mine1 Right 1
+1 28
+15 11 Pipe Left Right 1
+1 72
+15 12 Pipe Left Right 1
+1 16
+15 25 Pipe Left Right 1
+1 92
+16 5 Pipe Up Down 1
+22 16
+16 6 Pipe Up Right 1
+22 60
+16 7 Pipe Left Down 0
+16 8 Center 0
+16 9 Center 0
+16 10 Center 0
+16 11 Center 0
+16 12 Pipe Left Up 1
+1 60
+16 25 Pipe Left Right 0
+17 2 Miner Mine2 Down 1
+2 28
+17 3 Pipe Up Down 1
+2 72
+17 4 Cutter 0 Down 0
+16 4 Cutter 1 Down 0
+17 5 Pipe Up Right 1
+21 16
+17 6 Pipe Left Down 0
+17 7 Pipe Up Down 1
+22 4
+17 8 Center 0
+17 9 Center 0
+17 10 Center 0
+17 11 Center 0
+17 12 Pipe Down Up 1
+1 8
+17 13 Pipe Down Up 0
+17 14 Pipe Right Up 1
+1 64
+17 25 Pipe Left Right 1
+1 36
+18 5 Pipe Left Down 1
+21 60
+18 6 Pipe Up Down 0
+18 7 Pipe Up Down 1
+21 4
+18 8 Center 0
+18 9 Center 0
+18 10 Center 0
+18 11 Center 0
+18 12 Pipe Down Up 1
+1 36
+18 13 Pipe Right Up 0
+18 14 Pipe Down Left 1
+1 20
+18 15 Pipe Down Up 0
+18 16 Pipe Down Up 1
+1 76
+18 17 Pipe Down Up 1
+1 32
+18 18 Pipe Down Up 0
+18 19 Pipe Down Up 1
+1 88
+18 20 Pipe Down Up 1
+1 44
+18 21 Pipe Down Up 1
+1 0
+18 22 Miner Mine1 Up 0
+18 25 Pipe Left Right 1
+1 80
+19 8 Center 0
+19 9 Center 0
+19 10 Center 0
+19 11 Center 0
+19 12 Pipe Right Up 1
+1 36
+19 13 Pipe Down Left 1
+1 92
+19 14 Pipe Down Up 1
+1 48
+19 15 Pipe Down Up 1
+1 4
+19 16 Pipe Down Up 0
+19 17 Pipe Down Up 1
+1 60
+19 18 Pipe Down Up 1
+1 16
+19 19 Pipe Down Up 0
+19 20 Pipe Down Up 1
+1 72
+19 21 Miner Mine1 Up 1
+1 28
+19 22 Mine1
+19 23 Miner Mine1 Down 1
+1 28
+19 24 Pipe Up Right 1
+1 72
+19 25 Pipe Left Right 0
+20 8 Pipe Right Left 0
+20 9 Pipe Right Left 1
+1 32
+20 10 Pipe Right Left 0
+20 11 Pipe Right Left 0
+20 12 Pipe Down Left 0
+20 13 Pipe Down Up 1
+1 92
+20 14 Pipe Down Up 1
+1 48
+20 15 Pipe Down Up 1
+1 4
+20 16 Pipe Down Up 0
+20 17 Pipe Down Up 1
+1 60
+20 18 Pipe Down Up 1
+1 16
+20 19 Pipe Down Up 0
+20 20 Pipe Down Up 1
+1 72
+20 21 Miner Mine1 Up 1
+1 28
+20 22 Mine1
+20 23 Miner Mine1 Right 0
+20 24 Pipe Left Right 0
+20 25 Pipe Left Right 1
+1 24
+21 8 Pipe Right Left 1
+1 72
+21 9 Pipe Right Left 0
+21 10 Pipe Right Left 1
+1 84
+21 11 Pipe Down Left 1
+1 80
+21 12 Pipe Down Up 1
+1 36
+21 13 Pipe Down Up 0
+21 14 Pipe Down Up 1
+1 92
+21 15 Pipe Down Up 1
+1 48
+21 16 Pipe Down Up 1
+1 4
+21 17 Pipe Down Up 0
+21 18 Pipe Down Up 1
+1 60
+21 19 Pipe Down Up 1
+1 16
+21 20 Pipe Down Up 0
+21 21 Pipe Down Up 1
+1 72
+21 22 Miner Mine1 Up 1
+1 28
+21 23 Pipe Left Right 1
+1 0
+21 24 Pipe Left Right 1
+1 16
+21 25 Pipe Left Right 1
+1 68
+22 8 Pipe Right Left 1
+1 28
+22 9 Pipe Right Left 1
+1 88
+22 10 Pipe Down Left 1
+1 40
+22 11 Pipe Down Up 0
+22 12 Pipe Down Up 1
+1 96
+22 13 Pipe Down Up 1
+1 52
+22 14 Pipe Down Up 1
+1 8
+22 15 Pipe Down Up 0
+22 16 Pipe Down Up 1
+1 64
+22 17 Pipe Down Up 1
+1 20
+22 18 Pipe Down Up 0
+22 19 Pipe Down Up 1
+1 76
+22 20 Pipe Down Up 1
+1 32
+22 21 Pipe Down Up 0
+22 22 Pipe Down Up 1
+1 88
+22 23 Pipe Left Up 1
+1 44
+22 24 Pipe Left Right 1
+1 60
+22 25 Pipe Left Right 0
+23 8 Pipe Right Left 0
+23 9 Pipe Down Left 1
+1 44
+23 10 Pipe Down Up 1
+1 0
+23 11 Pipe Down Up 0
+23 12 Pipe Down Up 1
+1 56
+23 13 Pipe Down Up 1
+1 12
+23 14 Pipe Down Up 0
+23 15 Pipe Down Up 1
+1 68
+23 16 Pipe Down Up 1
+1 24
+23 17 Pipe Down Up 0
+23 18 Pipe Down Up 1
+1 80
+23 19 Pipe Down Up 1
+1 36
+23 20 Pipe Down Up 0
+23 21 Pipe Down Up 1
+1 92
+23 22 Pipe Down Up 1
+1 48
+23 23 Pipe Down Up 1
+1 4
+23 24 Pipe Left Up 0
+23 25 Pipe Left Right 1
+1 12
+24 8 Pipe Down Left 1
+1 84
+24 9 Pipe Down Up 1
+1 40
+24 10 Pipe Down Up 0
+24 11 Pipe Down Up 1
+1 96
+24 12 Pipe Down Up 1
+1 52
+24 13 Pipe Down Up 1
+1 8
+24 14 Pipe Down Up 0
+24 15 Pipe Down Up 1
+1 64
+24 16 Pipe Down Up 1
+1 20
+24 17 Pipe Down Up 0
+24 18 Pipe Down Up 1
+1 76
+24 19 Pipe Down Up 1
+1 32
+24 20 Pipe Down Up 0
+24 21 Pipe Down Up 1
+1 88
+24 22 Pipe Down Up 1
+1 44
+24 23 Pipe Down Up 1
+1 0
+24 24 Pipe Down Up 0
+24 25 Pipe Left Up 1
+1 56
+Data
+9929999
+2173
+197
+321
+317
+1
+0.1

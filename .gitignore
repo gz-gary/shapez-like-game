@@ -1,0 +1,13 @@
+# binary file
+/build
+*.o
+Shapez
+
+# clangd cache
+/.cache
+
+# Makefile
+Makefile
+compile_commands.json
+
+README.md

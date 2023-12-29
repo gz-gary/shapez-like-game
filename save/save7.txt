@@ -1,0 +1,111 @@
+Size
+29 23
+Block
+3 4 Pipe Right Down 0
+3 5 Pipe Up Down 0
+3 6 Pipe Up Down 0
+3 7 Trashbin 0
+4 2 Pipe Down Right 0
+4 4 Pipe Right Left 0
+5 2 Pipe Left Right 0
+5 4 Pipe Right Left 0
+6 2 Pipe Left Down 0
+6 3 Pipe Up Down 0
+6 4 Pipe Up Left 0
+9 13 Trashbin 0
+10 6 Miner Mine1 Right 1
+1 60
+10 7 Pipe Down Up 0
+10 8 Miner Mine2 Down 1
+2 56
+10 9 Pipe Up Down 1
+2 76
+10 10 Pipe Up Down 1
+2 96
+10 11 Pipe Up Down 0
+10 12 Cutter 0 Down 1
+21 16
+9 12 Cutter 1 Down 1
+22 16
+10 13 Pipe Up Right 1
+21 36
+11 6 Pipe Left Right 2
+1 80
+1 20
+11 13 Pipe Left Right 1
+21 56
+12 6 Pipe Left Right 2
+1 100
+1 40
+12 13 Pipe Left Right 1
+21 76
+13 9 Pipe Down Right 1
+1 76
+13 10 Miner Mine1 Up 1
+1 56
+13 13 Pipe Left Right 1
+21 96
+14 6 Pipe Left Right 0
+14 9 Pipe Left Right 1
+1 96
+14 13 Pipe Left Right 0
+15 6 Pipe Left Down 0
+15 7 Pipe Up Down 0
+15 8 Pipe Up Right 0
+15 9 Pipe Left Right 0
+15 13 Pipe Left Right 1
+21 16
+16 5 Pipe Up Down 0
+16 6 Pipe Up Down 0
+16 7 Pipe Up Down 0
+16 8 Center 0
+16 9 Center 0
+16 10 Center 0
+16 11 Pipe Down Up 1
+21 76
+16 12 Pipe Down Up 1
+21 56
+16 13 Pipe Left Up 1
+21 36
+17 2 Miner Mine2 Right 1
+2 56
+17 3 Pipe Up Down 0
+17 5 Pipe Up Right 0
+17 8 Center 0
+17 9 Center 0
+17 10 Center 0
+18 2 Pipe Left Right 1
+2 76
+18 5 Pipe Left Down 0
+18 6 Pipe Up Down 0
+18 7 Pipe Up Down 0
+18 8 Center 0
+18 9 Center 0
+18 10 Center 0
+19 2 Pipe Left Right 1
+2 96
+19 9 Pipe Right Left 1
+2 36
+20 2 Pipe Left Down 0
+20 3 Pipe Up Down 1
+2 16
+20 4 Pipe Up Down 1
+2 36
+20 5 Pipe Up Down 1
+2 56
+20 6 Pipe Up Down 1
+2 76
+20 7 Pipe Up Down 1
+2 96
+20 8 Pipe Up Down 0
+20 9 Pipe Up Left 1
+2 16
+4 3 Mine1
+Data
+85000
+222
+183
+116
+0
+1
+0.0
